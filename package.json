@@ -1,0 +1,22 @@
+{
+  "name": "sctjs",
+  "version": "1.0.0",
+  "description": "Short Combinations Tags is a html shorter thingy",
+  "main": "sct.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ItaySharon/sct.git"
+  },
+  "keywords": [
+    "sctjs"
+  ],
+  "author": "ItaySharon",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/ItaySharon/sct/issues"
+  },
+  "homepage": "https://github.com/ItaySharon/sct#readme"
+}
